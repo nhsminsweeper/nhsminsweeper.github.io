@@ -2,7 +2,7 @@ let board = [];
 let rows = 8;
 let columns = 8;
 
-let minesCount = 10;
+let minesCount = 40;
 let minesLocation = []; // "2-2", "3-4", "2-1"
 
 let tilesClicked = 0; //goal to click all tiles except the ones containing mines
